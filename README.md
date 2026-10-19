@@ -27,7 +27,10 @@ Utilizei funções avançadas, validação de dados, automação e tabelas dinâ
 ### 📊 Resultado
 O resultado foi uma planilha automatizada e visual, que facilita o acompanhamento de métricas e apoia decisões orientadas por dados.
 
-<img width="731" height="774" alt="Captura de Tela (547)" src="https://github.com/user-attachments/assets/9c4cfa5c-555c-4d47-b268-579626c856ab" />
+<img width="1554" height="779" alt="Captura de Tela (546)" src="https://github.com/user-attachments/assets/c0e72eea-740b-4d17-8ddc-8d0a029a6b44" />
+<img width="1728" height="697" alt="Captura de Tela (545)" src="https://github.com/user-attachments/assets/9bd49823-7fdc-4632-afe2-1e323d958dec" />
+<img width="731" height="774" alt="Captura de Tela (547)" src="https://github.com/user-attachments/assets/6e77cc03-c834-4217-a609-8b30cd447e74" />
+
 
 
 ---
@@ -49,6 +52,7 @@ Recentemente, desenvolvi um projeto prático focado na consolidação e visualiz
 Mais do que criar gráficos bonitos, o valor real está em transformar números soltos em histórias claras que facilitam a tomada de decisão. A prática constante é a chave para a evolução técnica!
 
 <img width="1369" height="537" alt="Captura de Tela (536)" src="https://github.com/user-attachments/assets/1f2ab35c-b9f4-4751-8061-7842ddc32b08" />
+<img width="1310" height="696" alt="Captura de Tela (534)" src="https://github.com/user-attachments/assets/51b0b596-bd34-45d2-a8b7-1b2aa08b7845" />
 
 
 ---
