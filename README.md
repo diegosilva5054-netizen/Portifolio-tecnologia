@@ -69,8 +69,57 @@ Foi uma ótima oportunidade para praticar o fluxo completo de análise de dados:
 
 <img width="1344" height="730" alt="Captura de Tela (548)" src="https://github.com/user-attachments/assets/55719023-b2fc-4681-9785-9c6cb9914a20" />
 
+---
 
 ---
+
+## 📊 Análise de Performance Comercial no Setor Automotivo (Power BI)
+
+Hoje compartilho com vocês mais um projeto desenvolvido no Power BI, focado na análise de performance comercial do setor automotivo.
+
+O objetivo deste dashboard foi transformar dados brutos em insights estratégicos que permitem compreender o desempenho de vendas e faturamento de diferentes fabricantes e modelos de veículos.
+
+### 💡 Principais perguntas respondidas pelo dashboard:
+* **Quais fabricantes mais contribuíram para o faturamento total?**
+* **Como está o comparativo entre preço de venda e valor de revenda?**
+* **Qual o desempenho de faturamento por mês, ano e trimestre?**
+* **Qual a participação de carros de passeio e esportivos no faturamento total?**
+
+### 📈 Destaques da análise:
+* **Faturamento total:** R$ 1,97 Bilhão
+* **Preço médio dos veículos:** R$ 12,7 Milhões
+* **Total de veículos analisados:** 157
+* **Fabricantes com melhor performance:** Toyota, Nissan e Pontiac
+
+Esse projeto me ajudou a reforçar habilidades em modelagem de dados, DAX, design de dashboards e análise de performance comercial.
+
+### 🔧 Ferramentas utilizadas:
+* Power BI | DAX | Excel | PowerPoint
+
+<img width="1056" height="594" alt="Screenshot_20261019_094805_LinkedIn" src="https://github.com/user-attachments/assets/4cd7e8c5-6ed2-4ddf-9c55-315cb01b3bfe" />
+<img width="1061" height="587" alt="Screenshot_20261019_094811_LinkedIn" src="https://github.com/user-attachments/assets/f4198594-d137-45f2-b32c-8e3815d5de6a" />
+
+---
+
+---
+
+## 📈 Dashboard de Vendas e Lucratividade (Power BI / Analytics)
+
+Compartilho com vocês um dashboard de vendas que desenvolvi focado em responder perguntas importantes do negócio e apoiar tomadas de decisão rápidas.
+
+### 💡 Perguntas estratégicas respondidas pelo dashboard:
+* 🔹 **Quanto estamos vendendo?** (Visão geral de faturamento e volume de vendas)
+* 🔹 **Qual o lucro por segmento?** (Análise detalhada da margem por tipo de cliente/mercado)
+* 🔹 **Quais regiões têm melhor desempenho?** (Mapeamento e acompanhamento geográfico)
+* 🔹 **Quais produtos vendem mais?** (Ranking dos principais itens do portfólio)
+
+### 🎯 Objetivo do Projeto
+O objetivo foi criar uma visualização simples, objetiva e fácil de interpretar, destacando os principais indicadores de desempenho (KPIs) com um design limpo e intuitivo.
+
+<img width="1080" height="608" alt="Screenshot_20261019_094754_LinkedIn" src="https://github.com/user-attachments/assets/78666df6-d202-4689-b8df-b8b3c7cc158f" />
+
+---
+
 
 
 ## 👤 Autor
