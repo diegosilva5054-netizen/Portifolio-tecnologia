@@ -120,7 +120,25 @@ O objetivo foi criar uma visualização simples, objetiva e fácil de interpreta
 
 ---
 
+---
 
+## 📊 Painel Interativo de Vendas com DAX e Power BI
+
+Concluí o desenvolvimento de um painel interativo focado em aprimorar e aplicar meus conhecimentos avançados em **DAX (Data Analysis Expressions)** e modelagem de dados.
+
+### 📊 Principais Indicadores e Visões do Painel:
+* ✅ **Faturamento total:** Acompanhamento dinâmico da receita gerada.
+* ✅ **Quantidade de pedidos:** Volume total de transações processadas.
+* ✅ **Ticket médio:** Indicador essencial para entender o comportamento de compra.
+* ✅ **Distribuição dos dados:** Análise cruzada em diferentes dimensões de negócio.
+
+O objetivo foi transformar dados brutos em métricas claras, proporcionando uma leitura ágil e estratégica do desempenho.
+
+<img width="1080" height="607" alt="Screenshot_20261019_094740_LinkedIn" src="https://github.com/user-attachments/assets/6b9a4e57-b93f-4b9d-b1b2-2232e3f6446d" />
+<img width="1080" height="601" alt="Screenshot_20261019_094735_LinkedIn" src="https://github.com/user-attachments/assets/94b5a80f-e9e4-48c5-a41c-05099b348525" />
+
+
+---
 
 ## 👤 Autor
 **Diego Silva Santos**  
