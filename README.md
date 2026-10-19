@@ -1,1 +1,58 @@
-# Portifolio-tecnologia
+# 📊 Portfólio de Tecnologia e Análise de Dados
+
+Bem-vindo(a) ao meu repositório de projetos! Aqui apresento soluções desenvolvidas utilizando Excel e análise de dados para resolução de problemas de negócio.
+
+---
+
+## 📁 Projetos Incluídos
+
+### 1. Projeto Miracatiba (`miracatiba.xlsx`)
+
+# 📈🚍 Projeto Intervias_Miracatiba | Excel Intermediário
+
+Dando continuidade ao projeto que iniciei em SQL e levei para o Power BI, agora desenvolvi uma versão no Excel, voltada à análise e controle de dados operacionais. 💡
+
+Utilizei funções avançadas, validação de dados, automação e tabelas dinâmicas para tornar a análise mais interativa e eficiente.
+
+---
+
+### 🛠️ Principais recursos e funções aplicados:
+* **PROCX / PROCV**
+* **CONT.SE / SOMASE / MÉDIASE**
+* **Validação de Dados**
+* **Tabelas Dinâmicas**
+
+---
+
+### 📊 Resultado
+O resultado foi uma planilha automatizada e visual, que facilita o acompanhamento de métricas e apoia decisões orientadas por dados.
+
+<img width="731" height="774" alt="Captura de Tela (547)" src="https://github.com/user-attachments/assets/9c4cfa5c-555c-4d47-b268-579626c856ab" />
+
+
+---
+
+### 2. Base de Dados (`Base de Dados(1).xlsx`)
+
+## 💡 Projeto 2: Do Zero ao Dashboard Interativo no Microsoft Excel: Análise Completa de Vendas
+
+Recentemente, desenvolvi um projeto prático focado na consolidação e visualização de dados de vendas. O objetivo principal foi estruturar 5 tabelas dinâmicas estratégicas para responder às principais perguntas de negócio e, em seguida, unificar esses dados em um Dashboard dinâmico e intuitivo.
+
+### 🔍 O que o projeto contempla:
+* **Receita e Indicadores Chave (KPIs):** Mapeamento de uma receita total de R$ 68,3M, distribuída em mais de 60 mil itens e 600 pedidos.
+* **Análise por Representante:** Identificação das lideranças de vendas (com destaques como Felipe Seixas e Maria Silva).
+* **Desempenho Temporal:** Acompanhamento da oscilação do faturamento ao longo dos 12 meses.
+* **Visão Geográfica & Clientes:** Distribuição de vendas por estados (RJ liderando com 32%, seguido por ES, MG e SP) e análise detalhada dos principais clientes.
+* **Top Produtos:** Destaque para os produtos de maior faturamento, como o Notebook Modelo 3.
+
+### 💡 O maior aprendizado:
+Mais do que criar gráficos bonitos, o valor real está em transformar números soltos em histórias claras que facilitam a tomada de decisão. A prática constante é a chave para a evolução técnica!
+
+<img width="1369" height="537" alt="Captura de Tela (536)" src="https://github.com/user-attachments/assets/1f2ab35c-b9f4-4751-8061-7842ddc32b08" />
+
+
+---
+
+## 👤 Autor
+**Diego Silva Santos**  
+*Estudante de Análise e Desenvolvimento de Sistemas*
