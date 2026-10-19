@@ -1,6 +1,6 @@
 # 📊 Portfólio de Tecnologia e Análise de Dados
 
-Bem-vindo(a) ao meu repositório de projetos! Aqui apresento soluções desenvolvidas utilizando Excel e análise de dados para resolução de problemas de negócio.
+Bem-vindo(a) ao meu repositório de projetos! Aqui apresento soluções em análise de dados para resolução de problemas de negócio.
 
 ---
 
