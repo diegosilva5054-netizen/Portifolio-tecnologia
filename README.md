@@ -14,8 +14,6 @@ Dando continuidade ao projeto que iniciei em SQL e levei para o Power BI, agora 
 
 Utilizei funções avançadas, validação de dados, automação e tabelas dinâmicas para tornar a análise mais interativa e eficiente.
 
----
-
 ### 🛠️ Principais recursos e funções aplicados:
 * **PROCX / PROCV**
 * **CONT.SE / SOMASE / MÉDIASE**
@@ -30,8 +28,6 @@ O resultado foi uma planilha automatizada e visual, que facilita o acompanhament
 <img width="1554" height="779" alt="Captura de Tela (546)" src="https://github.com/user-attachments/assets/c0e72eea-740b-4d17-8ddc-8d0a029a6b44" />
 <img width="1728" height="697" alt="Captura de Tela (545)" src="https://github.com/user-attachments/assets/9bd49823-7fdc-4632-afe2-1e323d958dec" />
 <img width="731" height="774" alt="Captura de Tela (547)" src="https://github.com/user-attachments/assets/6e77cc03-c834-4217-a609-8b30cd447e74" />
-
-
 
 ---
 
@@ -55,8 +51,27 @@ Mais do que criar gráficos bonitos, o valor real está em transformar números 
 <img width="1310" height="696" alt="Captura de Tela (534)" src="https://github.com/user-attachments/assets/51b0b596-bd34-45d2-a8b7-1b2aa08b7845" />
 <img width="1874" height="726" alt="Captura de Tela (533)" src="https://github.com/user-attachments/assets/fc1aa280-5221-4924-b869-5098a6aa41a5" />
 
+---
+
+## 🐍 Atividade_3: Análise de Vendas com SQLite, Pandas e Visualização Gráfica (Python)
+
+Compartilho com vocês hoje um projeto de análise de vendas desenvolvido em Python, com foco em transformar dados armazenados em um banco SQLite em informações claras e visuais para apoiar a tomada de decisões.
+
+No projeto, utilizei **SQLite** para criação e consulta do banco de dados, **Pandas** para tratamento e análise dos dados, e **Matplotlib** e **Seaborn** para a construção de um dashboard com indicadores importantes, como:
+
+* ✔️ Total de vendas por categoria;
+* ✔️ Evolução das vendas ao longo dos meses;
+* ✔️ Participação percentual de cada categoria;
+* ✔️ Ticket médio por categoria;
+* ✔️ Identificação do produto com maior valor de venda.
+
+Foi uma ótima oportunidade para praticar o fluxo completo de análise de dados: armazenamento, consulta, transformação e visualização. 📊
+
+<img width="1344" height="730" alt="Captura de Tela (548)" src="https://github.com/user-attachments/assets/55719023-b2fc-4681-9785-9c6cb9914a20" />
+
 
 ---
+
 
 ## 👤 Autor
 **Diego Silva Santos**  
