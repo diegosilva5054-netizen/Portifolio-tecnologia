@@ -53,6 +53,7 @@ Mais do que criar gráficos bonitos, o valor real está em transformar números 
 
 <img width="1369" height="537" alt="Captura de Tela (536)" src="https://github.com/user-attachments/assets/1f2ab35c-b9f4-4751-8061-7842ddc32b08" />
 <img width="1310" height="696" alt="Captura de Tela (534)" src="https://github.com/user-attachments/assets/51b0b596-bd34-45d2-a8b7-1b2aa08b7845" />
+<img width="1874" height="726" alt="Captura de Tela (533)" src="https://github.com/user-attachments/assets/fc1aa280-5221-4924-b869-5098a6aa41a5" />
 
 
 ---
